@@ -1,5 +1,5 @@
 
-# 📊 Amazon Customer Sentiment & Data Analysis using Python
+# 📊 Amazon Customer Sentiment Analysis using NLP
 
 ## 📌 Project Overview
 This project focuses on analyzing Amazon customer review data to extract meaningful insights using data analysis and Natural Language Processing (NLP) techniques. The objective is to understand customer sentiment, identify trends, and classify reviews into positive, negative, and neutral categories.
