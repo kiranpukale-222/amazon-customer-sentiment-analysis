@@ -81,5 +81,5 @@ This project demonstrates an end-to-end data analysis and sentiment analysis pip
 *Kiran Pukale*  
 Data Analyst | Python | NLP | Data Science Intern  
 
-🔗 GitHub: https://github.com/your-kiranpukale-222
+🔗 GitHub: https://github.com/kiranpukale-222
 
