@@ -167,7 +167,7 @@ It reflects how data analytics can support **business decision-making in e-comme
 
 ## 👤 Author
 
-**Kiran**
+**Kiran Pukale**
 
 ---
 
